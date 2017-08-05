@@ -1,0 +1,12 @@
+{
+  "Name": "Chow Chow",
+  "Origin": "China",
+  "Weight": "20-32kg",
+  "Height": "43-51cm",
+  "Coat": "Thick and coarse",
+  "Colour": "Red-Gold mix, or tan",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chow_Chow"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "Chihuahua",
+  "Origin": "Mexico",
+  "Weight": "1-3kg",
+  "Height": "15-25cm",
+  "Coat": "Either short and smooth or long and thick",
+  "Colour": "White, black or tan",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chihuahua_(dog)"
+  }
+}

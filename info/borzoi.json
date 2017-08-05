@@ -1,0 +1,12 @@
+{
+  "Name": "Borzoi",
+  "Origin": "Russia",
+  "Weight": "25-48kg",
+  "Height": "68-85cm",
+  "Coat": "Medium length, silky and wavy",
+  "Colour": "Multiple colours, but commonly white or black",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Borzoi"
+  }
+}

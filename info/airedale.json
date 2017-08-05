@@ -1,0 +1,12 @@
+{
+  "Name": "Airedale Terrier",
+  "Origin": "United Kingdom",
+  "Weight": "19-25kg",
+  "Height": "58-61cm",
+  "Coat": "Hard and wiry outer coat, which is hypoallergenic",
+  "Colour": "Black with a tan head and legs",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Airedale_Terrier"
+  }
+}

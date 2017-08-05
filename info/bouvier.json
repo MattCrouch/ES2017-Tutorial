@@ -1,0 +1,12 @@
+{
+  "Name": "Bouvier des Flandres",
+  "Origin": "Belgium",
+  "Weight": "27-54kg",
+  "Height": "56-71cm",
+  "Coat": "Double coat with rough looking outer coat that needs to be groomed regularly",
+  "Colour": "Fawn, brindle, black, grey or blonde",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bouvier_des_Flandres"
+  }
+}

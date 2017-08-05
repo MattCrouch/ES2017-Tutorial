@@ -1,0 +1,13 @@
+{
+  "Name": "Appenzeller Sennenhund",
+  "Origin": "Switzerland",
+  "Weight": "22-32kg",
+  "Height": "50-56cm",
+  "Coat": "Short and soft",
+  "Colour": "Black, and brown with a white face and chest",
+  "Varieties": "Many regional varieties, including Swiss and Bernese mountain dogs",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Appenzeller_Sennenhund"
+  }
+}

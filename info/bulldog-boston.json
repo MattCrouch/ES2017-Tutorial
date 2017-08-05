@@ -1,0 +1,13 @@
+{
+  "Name": "Boston Terrier",
+  "Origin": "United States",
+  "Weight": "7-11kg",
+  "Height": "23-38cm",
+  "Coat": "Short, smooth, slick",
+  "Colour": "Black and white, or brindle",
+  "AKA": "Boston Bulldog, Boxwood, 'American Gentleman'",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Boston_Terrier"
+  }
+}

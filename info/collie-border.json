@@ -1,0 +1,13 @@
+{
+  "Name": "Border Collie",
+  "Origin": "United Kingdom",
+  "Weight": "12-20kg",
+  "Height": "46-56cm",
+  "Coat": "Smooth or rough double coat",
+  "Colour": "Commonly black with white patches",
+  "AKA": "Scottish Sheepdog",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Border_Collie"
+  }
+}

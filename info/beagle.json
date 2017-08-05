@@ -1,0 +1,12 @@
+{
+  "Name": "Beagle",
+  "Origin": "England",
+  "Weight": "10-11kg",
+  "Height": "33-41cm",
+  "Coat": "Short haired, hard coat of medium length",
+  "Colour": "Tricolor or white in combination with black & tan/brown or brown/tan",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Beagle"
+  }
+}

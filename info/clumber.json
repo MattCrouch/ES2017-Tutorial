@@ -1,0 +1,14 @@
+{
+  "Name": "Clumber Spaniel",
+  "Origin": "England",
+  "Weight": "25-39kg",
+  "Height": "43-51cm",
+  "Coat": "Dense and flat, prone to heavy shedding",
+  "Colour": "Predominantly white, with gold brown and orange markings",
+  "Temperament": "Gentle, loving and affectionate",
+  "Health Concerns": "Many of this breed can develop temporary lameness in their first year due to fast-growing bones",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clumber_Spaniel"
+  }
+}

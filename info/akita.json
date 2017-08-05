@@ -1,0 +1,12 @@
+{
+  "Name": "Akita",
+  "Origin": "Japan/USA",
+  "Weight": "32-45kg",
+  "Height": "66-71cm",
+  "Coat": "Thick, fluffy double coat",
+  "Colour": "Mostly white and brindle",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Akita_(dog)"
+  }
+}

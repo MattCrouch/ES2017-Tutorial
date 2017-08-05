@@ -1,0 +1,12 @@
+{
+  "Name": "Staffordshire Bull Terrier",
+  "Origin": "England",
+  "Weight": "11-17kg",
+  "Height": "36-41cm",
+  "Coat": "Smooth, short and close",
+  "Colour": "Red, fawn, white, black or blue, or any one of these colours with white",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Staffordshire_Bull_Terrier"
+  }
+}

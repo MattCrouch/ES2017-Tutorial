@@ -1,0 +1,12 @@
+{
+  "Name": "Cardigan Welsh Corgi",
+  "Origin": "Wales",
+  "Weight": "11-17kg",
+  "Height": "27-33cm",
+  "Coat": "Thick, double-coated",
+  "Colour": "A variety of colours, including black, red and brindle",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cardigan_Welsh_Corgi"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "Boxer",
+  "Origin": "Germany",
+  "Weight": "25-32kg",
+  "Height": "53-64cm",
+  "Coat": "Short, shiny, smooth, close-lying",
+  "Colour": "Fawn or brindle, black mask, with or without white markings, and white",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Boxer_(dog)"
+  }
+}

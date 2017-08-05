@@ -1,0 +1,12 @@
+{
+  "Name": "French Bulldog",
+  "Origin": "France",
+  "Weight": "7-11kg",
+  "Height": "27-30cm",
+  "Coat": "Fine, short and smooth",
+  "Colour": "Variety of colours, but commonly tan or black",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/French_Bulldog"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "Bluetick Coonhound",
+  "Origin": "United States",
+  "Weight": "25-36kg",
+  "Height": "53-69cm",
+  "Coat": "Short and smooth",
+  "Colour": "Mottled blue",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bluetick_Coonhound"
+  }
+}

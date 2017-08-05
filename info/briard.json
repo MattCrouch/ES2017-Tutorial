@@ -1,0 +1,12 @@
+{
+  "Name": "Briard",
+  "Origin": "France",
+  "Weight": "25-40kg",
+  "Height": "58-69cm",
+  "Coat": "Long and slightly wavy",
+  "Colour": "Uniform black, fawn or grey",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Briard"
+  }
+}

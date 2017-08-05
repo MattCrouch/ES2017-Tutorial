@@ -1,0 +1,13 @@
+{
+  "Name": "African Wild Dog",
+  "Origin": "Africa",
+  "Weight": "20-30kg",
+  "Height": "60-75cm",
+  "Coat": "Thick and wiry",
+  "Colour": "Black with small white and yellow patches",
+  "Endangered": "This species is on the endangered species list and should not be adopted",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/African_wild_dog"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "dogadoption",
+  "version": "1.0.0",
+  "description": "A dog adoption information website demonstrating ES2017",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": ["es2017", "dogs", "tutorial"],
+  "author": "Matt Crouch <matt@mattcrouch.net>",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}

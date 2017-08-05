@@ -1,0 +1,12 @@
+{
+  "Name": "Basenji",
+  "Origin": "Great Britain",
+  "Weight": "9-11kg",
+  "Height": "40-43cm",
+  "Coat": "Short and fine",
+  "Colour": "Commonly either red, black or brindle",
+  "Source": {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Basenji"
+  }
+}
